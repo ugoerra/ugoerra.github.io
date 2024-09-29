@@ -1,8 +1,8 @@
 ---
-title: "Algoritmi e Strutture Dati"
+title: "Algoritmi e Strutture Dati 2024/25"
 collection: teaching
 type: "Laurea Triennale"
-permalink: /teaching/2024-spring-teaching-1
+permalink: /teaching/2024-I-semester-teaching-ASD
 venue: "Università della Basilicata, Dipartimento di Ingegneria"
 date: 2024-01-01
 location: "Potenza, Italia"
