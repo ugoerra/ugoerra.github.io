@@ -1,13 +1,17 @@
 ---
 permalink: /
-title: "About"
+title: "Background"
 author_profile: true
 redirect_from: 
   - /about/
   - /about.html
 ---
 
-Hi! I’m an Associate Professor at the [University of Basilicata](https://www.unibas.it), Italy, with appointments in the [Department of Engineering](https://ingegneria.unibas.it/site/home.html). I am also the founder of eXtended Reality & Artificial Intelligence Laboratory, where I lead a research group dedicated to advancing the frontiers of XR and AI technologies. I focus on developing innovative applications integrating virtual and augmented reality with intelligent systems. I like collaborating with industry partners and academic institutions to push the boundaries of human-computer interaction, aiming to transform how people engage with digital environments across various sectors.
+I am an Associate Professor at the [University of Basilicata](https://www.unibas.it), Italy, at the [Department of Engineering](https://ingegneria.unibas.it/site/home.html). I am also the founder of eXtended Reality & Artificial Intelligence Laboratory, where I lead a research group dedicated to advancing the frontiers of XR and AI technologies. 
+
+I got my Laurea in Informatica cum laude in 2001 from the [University of Salerno](https://www.unisa.it) and my PhD in Computer Science from the same University in 2004. Then, I moved to Potenza as an Assistant Professor of Computer Science. 
+
+I focus on developing innovative applications integrating virtual and augmented reality with intelligent systems. I like collaborating with industry partners and academic institutions to push the boundaries of human-computer interaction, aiming to transform how people engage with digital environments across various sectors.
 
 My work and research
 ======
