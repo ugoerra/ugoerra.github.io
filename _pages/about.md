@@ -9,15 +9,13 @@ redirect_from:
 
 I am an Associate Professor at the [University of Basilicata](https://www.unibas.it), Italy, at the [Department of Engineering](https://ingegneria.unibas.it/site/home.html). I am also the founder of eXtended Reality & Artificial Intelligence Laboratory, where I lead a research group dedicated to advancing the frontiers of XR and AI technologies. 
 
-I got my Laurea in Informatica cum laude in 2001 from the [University of Salerno](https://www.unisa.it) and my PhD in Computer Science from the same University in 2004. Then, I moved to Potenza as an Assistant Professor of Computer Science. 
+I got my Laurea in Informatica cum laude in 2001 from the [University of Salerno](https://www.unisa.it) and my PhD in Computer Science from the same University in 2004.
 
-I focus on developing innovative applications integrating virtual and augmented reality with intelligent systems. I like collaborating with industry partners and academic institutions to push the boundaries of human-computer interaction, aiming to transform how people engage with digital environments across various sectors.
-
-My work and research
+Research Summary
 ======
-Like many other Jekyll-based GitHub Pages templates, Academic Pages makes you separate the website's content from its form. The content & metadata of your website are in structured markdown files, while various other files constitute the theme, specifying how to transform that content & metadata into HTML pages. You keep these various markdown (.md), YAML (.yml), HTML, and CSS files in a public GitHub repository. Each time you commit and push an update to the repository, the [GitHub pages](https://pages.github.com/) service creates static HTML pages based on these files, which are hosted on GitHub's servers free of charge.
+My research focuses on the intersection of Computer Graphics, Artificial Intelligence, Human-Centered Computing, and Visualization. I am passionate about advancing Computer Graphics to create more immersive and realistic visual experiences. By integrating Artificial Intelligence, I develop intelligent systems that can understand, interpret, and generate complex visual data. My emphasis on Human-Centered Computing ensures that the technologies and applications I create are designed with the user's needs and experiences at the forefront. Through innovative Visualization techniques, I strive to make complex information more accessible and understandable, empowering users across various fields to make informed decisions.
 
-Many of the features of dynamic content management systems (like Wordpress) can be achieved in this fashion, using a fraction of the computational resources and with far less vulnerability to hacking and DDoSing. You can also modify the theme to your heart's content without touching the content of your site. If you get to a point where you've broken something in Jekyll/HTML/CSS beyond repair, your markdown files describing your talks, publications, etc. are safe. You can rollback the changes or even delete the repository and start over -- just be sure to save the markdown files! Finally, you can also write scripts that process the structured data on the site, such as [this one](https://github.com/academicpages/academicpages.github.io/blob/master/talkmap.ipynb) that analyzes metadata in pages about talks to display [a map of every location you've given a talk](https://academicpages.github.io/talkmap.html).
+In addition to my academic pursuits, I actively collaborate with industry partners to apply cutting-edge research to real-world challenges. This dual engagement allows me to bridge the gap between theoretical advancements and practical applications, driving innovation in academia and industry.
 
 **Markdown generator**
 
