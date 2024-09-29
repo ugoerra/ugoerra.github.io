@@ -29,6 +29,22 @@ Many people use a git client to create files on their local computer and then pu
 Example: editing a markdown file for a talk
 ![Editing a markdown file for a talk](/images/editing-talk.png)
 
-For more info
+Contact Information
 ------
-More info about configuring Academic Pages can be found in [the guide](https://academicpages.github.io/markdown/). The [guides for the Minimal Mistakes theme](https://mmistakes.github.io/minimal-mistakes/docs/configuration/) (which this theme was forked from) might also be helpful.
+Prof. Ugo Erra,
+Office (2nd floor 2D)
+Department of Engineering
+Phone: +39 0971 205869
+
+Office hours for students
+Tuesday 15:00 - 18:00
+Friday 15:00 - 18:00
+
+XR&AI Lab (3th floor 3D)
+Phone (Lab): +39 0971 205864
+Department of Engineering
+
+Università degli Studi della Basilicata
+Via dell´Ateneo nº10, Macchia Romana
+85100, Potenza - Italy
+
