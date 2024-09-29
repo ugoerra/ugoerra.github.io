@@ -4,7 +4,7 @@ collection: teaching
 type: "Laurea Magistrale"
 permalink: /teaching/2024-II-semester-teaching-GTA
 venue: "Università della Basilicata, Dipartimento di Ingegneria"
-date: 2014-01-01
+date: 2025-03-01
 location: "Potenza, Italia"
 ---
 
