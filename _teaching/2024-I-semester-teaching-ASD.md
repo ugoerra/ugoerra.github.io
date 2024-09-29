@@ -4,7 +4,7 @@ collection: teaching
 type: "Laurea Triennale"
 permalink: /teaching/2024-I-semester-teaching-ASD
 venue: "Università della Basilicata, Dipartimento di Ingegneria"
-date: 2024-01-01
+date: 2024-10-01
 location: "Potenza, Italia"
 ---
 
