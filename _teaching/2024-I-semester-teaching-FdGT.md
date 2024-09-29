@@ -1,7 +1,7 @@
 ---
 title: "Fondamenti di Grafica Tridimensionale 2024/25"
 collection: teaching
-type: "teaching"
+type: "Laurea Magistrale"
 permalink: /teaching/2024-I-semester-teaching-FdGT
 venue: "Università della Basilicata, Dipartimento di Ingegneria"
 date: 2015-01-01
