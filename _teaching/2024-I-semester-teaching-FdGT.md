@@ -4,7 +4,7 @@ collection: teaching
 type: "Laurea Magistrale"
 permalink: /teaching/2024-I-semester-teaching-FdGT
 venue: "Università della Basilicata, Dipartimento di Ingegneria"
-date: 2015-01-01
+date: 2024-10-01
 location: "Potenza, Italia"
 ---
 
