@@ -1,5 +1,5 @@
 ---
-title: "Grafica Tridimensioale Avanzata 2024/25"
+title: "Grafica Tridimensionale Avanzata 2024/25"
 collection: teaching
 type: "Laurea Magistrale"
 permalink: /teaching/2024-II-semester-teaching-GTA
