@@ -44,9 +44,9 @@ Course Contents
 
 Reference Books
 ======
-- [Fundamentals of Computer Graphics](https://www.routledge.com/Fundamentals-of-Computer-Graphics/Marschner-Shirley/p/book/9780367505035?srsltid=AfmBOooeuF0Al8xjopjwB8Kdh_BAR3wIrFWnSVfSaOOIxtHgHI7u_WrO), 5th Edition, Steve Marschner, Peter Shirley. September 30, 2021 by A.K. Peters/CRC Press, ISBN 978-0367505035
+- [Fundamentals of Computer Graphics](https://www.routledge.com/Fundamentals-of-Computer-Graphics/Marschner-Shirley/p/book/9780367505035?srsltid=AfmBOooeuF0Al8xjopjwB8Kdh_BAR3wIrFWnSVfSaOOIxtHgHI7u_WrO), 5th Edition, Steve Marschner, Peter Shirley. September 30, 2021 by A.K. Peters/CRC Press, ISBN 978-0367505035.
+- [Ray Tracing in One Weekend Book Series](https://raytracing.github.io/), by Peter Shirley, Trevor David Black and Steve Hollasch. Version 4.0.1, 2024-08-31.
+- [Physically Based Rendering: From Theory to Implementation](https://www.pbrt.org), by Matt Pharr, Wenzel Jakob, and Greg Humphreys. Available online. 
+- [Computer Graphics: Principles and Practice](https://www.oreilly.com/library/view/hughescomputer-graphics-3e/9780133373721/), Third Edition, by Kurt Akeley, James D. Foley, David F. Sklar, Morgan McGuire, John F. Hughes, Andries van Dam, Steven K. Feiner. August 2013, by Addison-Wesley Professional, ISBN: 9780133373721.
 
 
-
-Heading 3
-======
